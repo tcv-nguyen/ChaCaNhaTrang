@@ -5,75 +5,15 @@
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= stylesheet_link_tag    "style", :media => "all" %>
   <%= javascript_include_tag "application" %>
+  <%= javascript_include_tag "http://code.jquery.com/jquery-latest.min.js" %>
+  <%= javascript_include_tag "jquery.slides.min.js" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 	<div class="page">
-			<div class="header">
-				<!--<%=link_to image_tag("logo.gif", :alt =>""), :href => "index.html", :id => "logo" %> -->
-				<ul>
-					<li class="selected"><a href="index.html">Home</a></li>
-					<li><a href="#about.html">About Us</a></li>
-					<li><a href="#blog.html">Blog</a></li>
-					<li><a href="#services.html">Services</a></li>
-					<li><a href="#contact_us.html">Contact Us</a></li>
-				</ul>
-			</div>
-
-			<div class="body">
-				<div id="featured">
-					<h3>This is a FREE website template</h3>
-					<p>This website template has been designed by Free Website Templates for you, for free. You can 
-					replace all this text with your own text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
-					sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi 
-					enim ad minim veniam, quis nostrud exerci tation ullamcorper</p>
-					<input type="button" value="Read more" onClick="parent.location='blog.html'"/>
-				</div>
-
-				<ul class="blog">
-					<li>
-						<div>
-							<%=link_to image_tag("cha-ca-nhong.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "blog.html" %>
-							<p>Cha ca nhong</p>
-							<a href="#blog.html">Click to read more</a>
-							<%= yield %>
-						</div>
-					</li>
-
-					<li>
-						<div>
-							<%=link_to image_tag("cha-ca-do-cu.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" %>
-							<p>Cha ca do cu</p>
-							<a href="#blog.html">Click to read more</a>
-							<%= yield %>
-						</div>
-					</li>
-
-					<li>
-						<div>
-							<%=link_to image_tag("cha-ca-song.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "blog.html" %>
-							<p>Cha ca song</p>
-							<a href="#blog.html">Click to read more</a>
-							<%= yield %>
-						</div>
-					</li>
-				</ul>
-			</div>
-			<div class="footer">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="#about.html">About</a></li>
-					<li><a href="#blog.html">Blog</a></li>
-					<li><a href="#services.html">Gallery</a></li>
-				</ul>
-				<p>&#169; Copyright &#169; 2014. Cha Ca NhaTrang</p>
-				<div class="connect">
-					<a href="http://facebook.com/hoasung01" id="facebook">facebook</a>
-					<a href="http://twitter.com/hoasung01" id="twitter">twitter</a>
-					<a href="http://www.youtube.com/hoasung01" id="vimeo">vimeo</a>
-				</div>
-			</div>
+		<%=render :partial => "shared/header" %>
+		<%=render :partial => "shared/body"   %>	
+		<%=render :partial => "shared/footer" %>	
 	</div>
-
 </body>
 </html>
