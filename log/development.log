@@ -43689,3 +43689,1528 @@ Served asset /cha-ca-do-cu.jpg - 304 Not Modified (6ms)
 
 Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 14:30:39 +0700
 Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 17:14:29 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (99.0ms)
+  Rendered shared/_header.html.erb (29.0ms)
+  Rendered shared/_body.html.erb (58.0ms)
+  Rendered shared/_footer.html.erb (7.0ms)
+Completed 200 OK in 2051.0ms (Views: 2042.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 17:14:34 +0700
+Served asset /application.css - 304 Not Modified (633ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 17:14:34 +0700
+Served asset /ie7.css - 304 Not Modified (170ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 17:14:35 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (140ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:35 +0700
+Served asset /jquery.js - 304 Not Modified (116ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 17:14:35 +0700
+Served asset /style.css - 304 Not Modified (130ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:35 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (265ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 17:14:36 +0700
+Served asset /welcome.css - 304 Not Modified (147ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:36 +0700
+Served asset /jquery.min.js - 304 Not Modified (148ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:36 +0700
+Served asset /welcome.js - 304 Not Modified (200ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:37 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (113ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:37 +0700
+Served asset /slide.js - 304 Not Modified (42ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 17:14:37 +0700
+Served asset /application.js - 304 Not Modified (234ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 17:14:38 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (83ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 17:14:38 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (80ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 17:14:38 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (83ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 17:14:39 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (99ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 17:14:39 +0700
+Served asset /separator.jpg - 304 Not Modified (151ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 17:14:39 +0700
+Served asset /bg-body.jpg - 304 Not Modified (74ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 17:14:39 +0700
+Served asset /bg-header.jpg - 304 Not Modified (177ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 17:14:39 +0700
+Served asset /button-more.jpg - 304 Not Modified (277ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 17:14:40 +0700
+Served asset /interface.jpg - 304 Not Modified (161ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 17:14:40 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (246ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 17:14:41 +0700
+Served asset /icons.gif - 304 Not Modified (394ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 17:14:41 +0700
+Served asset /bx_loader.gif - 304 Not Modified (289ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 17:14:42 +0700
+Served asset /controls.png - 304 Not Modified (184ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 17:14:42 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (122ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 22:55:33 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (561.0ms)
+  Rendered shared/_header.html.erb (159.0ms)
+  Rendered shared/_body.html.erb (68.0ms)
+  Rendered shared/_footer.html.erb (7.0ms)
+Completed 200 OK in 13887.0ms (Views: 13873.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 22:56:05 +0700
+Served asset /application.css - 304 Not Modified (1605ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 22:56:13 +0700
+Served asset /ie7.css - 304 Not Modified (81ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 22:56:14 +0700
+Served asset /welcome.css - 304 Not Modified (88ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 22:56:14 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (69ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 22:56:14 +0700
+Served asset /style.css - 304 Not Modified (58ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:14 +0700
+Served asset /jquery.js - 304 Not Modified (1709ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:16 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (770ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:17 +0700
+Served asset /jquery.min.js - 304 Not Modified (313ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:17 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (508ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:18 +0700
+Served asset /slide.js - 304 Not Modified (575ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:19 +0700
+Served asset /application.js - 304 Not Modified (522ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 22:56:19 +0700
+Served asset /welcome.js - 304 Not Modified (81ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 22:56:19 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (569ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 22:56:23 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (391ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 22:56:24 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (644ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 22:56:24 +0700
+Served asset /bg-body.jpg - 304 Not Modified (719ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 22:56:25 +0700
+Served asset /bg-header.jpg - 304 Not Modified (479ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 22:56:26 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (417ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 22:56:26 +0700
+Served asset /separator.jpg - 304 Not Modified (252ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 22:56:27 +0700
+Served asset /interface.jpg - 304 Not Modified (309ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 22:56:27 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (415ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 22:56:28 +0700
+Served asset /button-more.jpg - 304 Not Modified (440ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 22:56:28 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (220ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 22:56:28 +0700
+Served asset /icons.gif - 304 Not Modified (323ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 22:56:29 +0700
+Served asset /bx_loader.gif - 304 Not Modified (375ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 22:56:29 +0700
+Served asset /controls.png - 304 Not Modified (151ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:05:21 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_header.html.erb (12.0ms)
+  Rendered shared/_body.html.erb (58.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 450.0ms (Views: 442.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:05:22 +0700
+Served asset /chaca-chien.jpg - 200 OK (668ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /slide.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /style.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:23 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /application.js - 304 Not Modified (22ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /jquery.min.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:05:24 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:05:25 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:05:25 +0700
+Served asset /separator.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:05:25 +0700
+Served asset /bg-body.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:05:26 +0700
+Served asset /bg-header.jpg - 304 Not Modified (15ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:05:26 +0700
+Served asset /interface.jpg - 304 Not Modified (13ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:05:26 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:05:27 +0700
+Served asset /button-more.jpg - 304 Not Modified (51ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:05:27 +0700
+Served asset /icons.gif - 304 Not Modified (10ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:05:28 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:05:28 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:05:28 +0700
+Served asset /controls.png - 304 Not Modified (17ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:06:33 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_header.html.erb (12.0ms)
+  Rendered shared/_body.html.erb (56.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+Completed 200 OK in 260.0ms (Views: 257.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /welcome.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /ie7.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /style.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /jquery.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /slide.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:34 +0700
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (13ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /bg-body.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /bg-header.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:06:35 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /separator.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /interface.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /button-more.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /icons.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /controls.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:06:36 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:06:48 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_header.html.erb (14.0ms)
+  Rendered shared/_body.html.erb (59.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 376.0ms (Views: 373.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:49 +0700
+Served asset /application.css - 304 Not Modified (24ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:49 +0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:49 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:49 +0700
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:06:49 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:49 +0700
+Served asset /jquery.js - 304 Not Modified (13ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /slide.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (16ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /application.js - 304 Not Modified (19ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:06:50 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /bg-body.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /separator.jpg - 304 Not Modified (29ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /bg-header.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /interface.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (1ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:06:51 +0700
+Served asset /button-more.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:06:52 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (9ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:06:52 +0700
+Served asset /icons.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:06:52 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:06:52 +0700
+Served asset /controls.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:15:51 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_header.html.erb (19.0ms)
+ERROR: compiling _app_views_shared__body_html_erb__1270708233_7440 RAISED /home/hoasung01/Rails Example/ChaCaNhaTrang/app/views/shared/_body.html.erb:10: syntax error, unexpected ':'
+		  <li>');@output_buffer.append= (image_tag "chaca-chien2.JPG", :width => "940", :height => "528" :alt => "" );@output_buffer.safe_concat('</li>
+                                                                                                   ^
+Function body:           def _app_views_shared__body_html_erb__1270708233_7440(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "shared/_body";_old_output_buffer = @output_buffer;body = local_assigns[:body];;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_concat('<div class="body">
+	<div class="bxslider">
+		<!-- <h3>This is a FREE website template</h3> -->
+		<!-- <p>This website template has been designed by Free Website Templates for you, for free. You can 
+		replace all this text with your own text. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, 
+		sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi 
+		enim ad minim veniam, quis nostrud exerci tation ullamcorper</p>
+		<input type="button" value="Read more" onClick="parent.location=\'blog.html\'"/> -->
+		  <li>');@output_buffer.append= (image_tag "chaca-chien.jpg", :width => "940", :height => "528", :alt => "" );@output_buffer.safe_concat('</li>
+		  <li>');@output_buffer.append= (image_tag "chaca-chien2.JPG", :width => "940", :height => "528" :alt => "" );@output_buffer.safe_concat('</li>
+		  <li>');@output_buffer.append= (image_tag "http://placehold.it/940x528", :alt => "" );@output_buffer.safe_concat('</li>
+		  <li>');@output_buffer.append= (image_tag "http://placehold.it/940x528", :alt => "" );@output_buffer.safe_concat('</li>
+	</div>
+
+	<ul class="blog">
+		<li>
+			<div>
+				');@output_buffer.append= (link_to image_tag("cha-ca-nhong.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('				<p>Cha ca nhong</p>
+				<a href="#blog.html">Click to read more</a>
+				');@output_buffer.append= ( yield );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('			</div>
+		</li>
+
+		<li>
+			<div>
+				');@output_buffer.append= (link_to image_tag("cha-ca-do-cu.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('				<p>Cha ca do cu</p>
+				<a href="#blog.html">Click to read more</a>
+				');@output_buffer.append= ( yield );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('			</div>
+		</li>
+
+		<li>
+			<div>
+				');@output_buffer.append= (link_to image_tag("cha-ca-song.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('				<p>Cha ca song</p>
+				<a href="#blog.html">Click to read more</a>
+				');@output_buffer.append= ( yield );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('			</div>
+		</li>
+	</ul>
+</div>');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+
+Backtrace: org/jruby/RubyModule.java:2312:in `module_eval'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:297:in `compile'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:244:in `compile!'
+org/jruby/ext/thread/Mutex.java:149:in `synchronize'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:232:in `compile!'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:144:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications.rb:125:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:143:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/partial_renderer.rb:265:in `render_partial'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/partial_renderer.rb:238:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications.rb:123:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications.rb:123:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/partial_renderer.rb:237:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/renderer.rb:41:in `render_partial'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/renderer.rb:15:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/helpers/rendering_helper.rb:24:in `render'
+/home/hoasung01/Rails Example/ChaCaNhaTrang/app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb___1083484271_3972'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:145:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications.rb:125:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/template.rb:143:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/template_renderer.rb:18:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_view/renderer/renderer.rb:17:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/rendering.rb:110:in `_render_template'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/rendering.rb:88:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/rendering.rb:16:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/hoasung01/.rvm/rubies/jruby-1.7.8/lib/ruby/1.9/benchmark.rb:295:in `realtime'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activerecord-3.2.16/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/base.rb:167:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/callbacks.rb:18:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:417:in `_run__2007999510__process_action__1614099519__callbacks'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:390:in `_run_process_action_callbacks'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/rescue.rb:29:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications.rb:123:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/notifications.rb:123:in `instrument'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activerecord-3.2.16/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/base.rb:121:in `process'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/abstract_controller/rendering.rb:45:in `process'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal.rb:203:in `dispatch'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_controller/metal.rb:246:in `action'
+org/jruby/RubyProc.java:271:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/routing/route_set.rb:36:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/journey-1.0.4/lib/journey/router.rb:68:in `call'
+org/jruby/RubyArray.java:1613:in `each'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/journey-1.0.4/lib/journey/router.rb:56:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/routing/route_set.rb:608:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/etag.rb:23:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/head.rb:14:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/flash.rb:242:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activerecord-3.2.16/lib/active_record/query_cache.rb:64:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activerecord-3.2.16/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/callbacks.rb:28:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:408:in `_run__542051660__call__1539131108__callbacks'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:405:in `__run_callback'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:390:in `_run_call_callbacks'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/railties-3.2.16/lib/rails/rack/logger.rb:32:in `call_app'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/railties-3.2.16/lib/rails/rack/logger.rb:16:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/tagged_logging.rb:22:in `tagged'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/railties-3.2.16/lib/rails/rack/logger.rb:16:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/activesupport-3.2.16/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/lock.rb:15:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/static.rb:63:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/railties-3.2.16/lib/rails/engine.rb:484:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/railties-3.2.16/lib/rails/application.rb:231:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/railties-3.2.16/lib/rails/rack/log_tailer.rb:17:in `call'
+/home/hoasung01/.rvm/gems/jruby-1.7.8/gems/rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+/home/hoasung01/.rvm/rubies/jruby-1.7.8/lib/ruby/1.9/webrick/httpserver.rb:138:in `service'
+/home/hoasung01/.rvm/rubies/jruby-1.7.8/lib/ruby/1.9/webrick/httpserver.rb:94:in `run'
+/home/hoasung01/.rvm/rubies/jruby-1.7.8/lib/ruby/1.9/webrick/httpserver.rb:72:in `run'
+/home/hoasung01/.rvm/rubies/jruby-1.7.8/lib/ruby/1.9/webrick/server.rb:191:in `start_thread'
+/home/hoasung01/.rvm/rubies/jruby-1.7.8/lib/ruby/1.9/webrick/server.rb:181:in `start_thread'
+  Rendered shared/_body.html.erb (2043.0ms)
+Completed 500 Internal Server Error in 2689.0ms
+
+ActionView::Template::Error (/home/hoasung01/Rails Example/ChaCaNhaTrang/app/views/shared/_body.html.erb:10: syntax error, unexpected ':'
+		  <li>');@output_buffer.append= (image_tag "chaca-chien2.JPG", :width => "940", :height => "528" :alt => "" );@output_buffer.safe_concat('</li>
+                                                                                                   ^):
+    7: 		enim ad minim veniam, quis nostrud exerci tation ullamcorper</p>
+    8: 		<input type="button" value="Read more" onClick="parent.location='blog.html'"/> -->
+    9: 		  <li><%=image_tag "chaca-chien.jpg", :width => "940", :height => "528", :alt => "" %></li>
+    10: 		  <li><%=image_tag "chaca-chien2.JPG", :width => "940", :height => "528" :alt => "" %></li>
+    11: 		  <li><%=image_tag "http://placehold.it/940x528", :alt => "" %></li>
+    12: 		  <li><%=image_tag "http://placehold.it/940x528", :alt => "" %></li>
+    13: 	</div>
+  app/views/layouts/application.html.erb:13:in `_app_views_layouts_application_html_erb___1083484271_3972'
+
+
+  Rendered /home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/templates/rescues/_trace.erb (35.0ms)
+  Rendered /home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (38.0ms)
+  Rendered /home/hoasung01/.rvm/gems/jruby-1.7.8/gems/actionpack-3.2.16/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (158.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:16:15 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_header.html.erb (30.0ms)
+  Rendered shared/_body.html.erb (125.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 342.0ms (Views: 340.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /ie7.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /style.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:16 +0700
+Served asset /jquery.min.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:17 +0700
+Served asset /slide.js - 304 Not Modified (13ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:17 +0700
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:17 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:17 +0700
+Served asset /welcome.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:16:17 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien2.JPG" for 127.0.0.1 at 2014-03-05 23:16:17 +0700
+Served asset /chaca-chien2.JPG - 200 OK (565ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (8ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /bg-header.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /bg-body.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (1ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:16:18 +0700
+Served asset /interface.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:16:19 +0700
+Served asset /button-more.jpg - 304 Not Modified (16ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:16:19 +0700
+Served asset /separator.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:16:19 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:16:19 +0700
+Served asset /icons.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:16:19 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:16:19 +0700
+Served asset /controls.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:16:37 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_header.html.erb (10.0ms)
+  Rendered shared/_body.html.erb (45.0ms)
+  Rendered shared/_footer.html.erb (4.0ms)
+Completed 200 OK in 197.0ms (Views: 195.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /ie7.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /jquery.min.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /slide.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:16:38 +0700
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien2.JPG" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /chaca-chien2.JPG - 304 Not Modified (21ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /bg-body.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /bg-header.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /separator.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /interface.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /button-more.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:16:39 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (1ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:16:40 +0700
+Served asset /icons.gif - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:16:40 +0700
+Served asset /bx_loader.gif - 304 Not Modified (6ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:16:40 +0700
+Served asset /controls.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:18:45 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+  Rendered shared/_header.html.erb (24.0ms)
+  Rendered shared/_body.html.erb (114.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+Completed 200 OK in 514.0ms (Views: 494.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /application.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /style.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:46 +0700
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /slide.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/chaca-chien3.jpg" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /chaca-chien3.jpg - 200 OK (277ms)
+
+
+Started GET "/assets/chaca-chien2.JPG" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /chaca-chien2.JPG - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /bg-body.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:18:47 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /bg-header.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /separator.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /interface.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /button-more.jpg - 304 Not Modified (8ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /icons.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:18:48 +0700
+Served asset /controls.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_header.html.erb (12.0ms)
+  Rendered shared/_body.html.erb (61.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 236.0ms (Views: 234.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /style.css - 304 Not Modified (23ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /slide.js - 304 Not Modified (23ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:26 +0700
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /jquery.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /application.js - 304 Not Modified (16ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien2.JPG" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /chaca-chien2.JPG - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien3.jpg" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /chaca-chien3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien4.jpg" for 127.0.0.1 at 2014-03-05 23:19:27 +0700
+Served asset /chaca-chien4.jpg - 200 OK (500ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (9ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /bg-body.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /bg-header.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:19:28 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (8ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /separator.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /interface.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /button-more.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /icons.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /bx_loader.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:19:29 +0700
+Served asset /controls.png - 304 Not Modified (2ms)
+
+
+Started GET "/welcome/index?href=%23blog.html" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Processing by WelcomeController#index as HTML
+  Parameters: {"href"=>"#blog.html"}
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_header.html.erb (25.0ms)
+  Rendered shared/_body.html.erb (31.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 219.0ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /jquery.min.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:20:02 +0700
+Served asset /slide.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (9ms)
+
+
+Started GET "/assets/chaca-chien2.JPG" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /chaca-chien2.JPG - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien3.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /chaca-chien3.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien4.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /chaca-chien4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (2ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /bg-body.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /bg-header.jpg - 304 Not Modified (13ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /separator.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:20:03 +0700
+Served asset /interface.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:20:04 +0700
+Served asset /button-more.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:20:04 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:20:04 +0700
+Served asset /icons.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:20:04 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:20:04 +0700
+Served asset /controls.png - 304 Not Modified (1ms)
+
+
+Started GET "/welcome/index?href=%23blog.html" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Processing by WelcomeController#index as HTML
+  Parameters: {"href"=>"#blog.html"}
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+  Rendered shared/_header.html.erb (9.0ms)
+  Rendered shared/_body.html.erb (90.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 200 OK in 202.0ms (Views: 199.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/ie7.css?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /ie7.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.bxslider.css?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /jquery.bxslider.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/style.css?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /style.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /welcome.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /jquery.min.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/slide.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:19 +0700
+Served asset /slide.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.bxslider.min.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /jquery.bxslider.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/chaca-chien.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /chaca-chien.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien3.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /chaca-chien3.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/chaca-chien2.JPG" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /chaca-chien2.JPG - 304 Not Modified (0ms)
+
+
+Started GET "/assets/chaca-chien4.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /chaca-chien4.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-nhong.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /cha-ca-nhong.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-do-cu.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /cha-ca-do-cu.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cha-ca-song.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /cha-ca-song.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-body.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /bg-body.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg-header.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /bg-header.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/bg-navigation.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /bg-navigation.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/separator.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /separator.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/interface.jpg" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /interface.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/icons.gif" for 127.0.0.1 at 2014-03-05 23:21:20 +0700
+Served asset /icons.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/button-more.jpg" for 127.0.0.1 at 2014-03-05 23:21:21 +0700
+Served asset /button-more.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bg-footer.jpg" for 127.0.0.1 at 2014-03-05 23:21:21 +0700
+Served asset /bg-footer.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rokkitt-regular-webfont.woff" for 127.0.0.1 at 2014-03-05 23:21:21 +0700
+Served asset /rokkitt-regular-webfont.woff - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bx_loader.gif" for 127.0.0.1 at 2014-03-05 23:21:21 +0700
+Served asset /bx_loader.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/controls.png" for 127.0.0.1 at 2014-03-05 23:21:21 +0700
+Served asset /controls.png - 304 Not Modified (0ms)
