@@ -1,0 +1,10 @@
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=23+V%C3%B5+Th%E1%BB%8B+S%C3%A1u,+Nha+Trang,+Khanh+Hoa+province,+Vietnam&amp;aq=0&amp;oq=23+V%C3%B5+Th%E1%BB%8B+S%C3%A1u,+nha+trang,+kha&amp;sll=37.0625,-95.677068&amp;sspn=43.664131,74.707031&amp;ie=UTF8&amp;hq=&amp;hnear=23+V%C3%B5+Th%E1%BB%8B+S%C3%A1u,+V%C4%A9nh+Tr%C6%B0%E1%BB%9Dng,+Nha+Trang,+Kh%C3%A1nh+Ho%C3%A0,+Vietnam&amp;t=m&amp;z=14&amp;ll=12.203515,109.202353&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=23+V%C3%B5+Th%E1%BB%8B+S%C3%A1u,+Nha+Trang,+Khanh+Hoa+province,+Vietnam&amp;aq=0&amp;oq=23+V%C3%B5+Th%E1%BB%8B+S%C3%A1u,+nha+trang,+kha&amp;sll=37.0625,-95.677068&amp;sspn=43.664131,74.707031&amp;ie=UTF8&amp;hq=&amp;hnear=23+V%C3%B5+Th%E1%BB%8B+S%C3%A1u,+V%C4%A9nh+Tr%C6%B0%E1%BB%9Dng,+Nha+Trang,+Kh%C3%A1nh+Ho%C3%A0,+Vietnam&amp;t=m&amp;z=14&amp;ll=12.203515,109.202353" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+<h2><%= t('.contact_us') %></h2>
+<%= simple_form_for @contact, :url => contacts_path do |f| %>
+  <%= f.input :name, :label => t('.name') if ContactUs.require_name %>
+  <%= f.input :email, :label => t('.email') %>
+  <%= f.input :subject, :label => t('.subject') if ContactUs.require_subject %>
+  <%= f.input :message, :as => :text, :label => t('.message') %>
+  <%= f.button :submit, :value => t('.submit'), :alt => t('.submit'), :id => 'contact_us_contact_submit', :title => t('.submit') %>
+<% end %>
