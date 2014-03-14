@@ -9,7 +9,7 @@ gem 'rails', '3.2.16'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 #gem 'activerecord-jdbcsqlite3-adapter'
-gem 'sqlite3'
+
 #gem 'jruby-openssl'
 
 # Gems used only for assets and not required
@@ -22,6 +22,18 @@ group :assets do
   gem 'therubyrhino'
 
   gem 'uglifier', '>= 1.0.3'
+end
+
+group :development do
+  #gem "letter_opener"
+end
+
+group :development, :test do
+  gem 'sqlite3'
+end
+
+group :production do
+  gem "pg"
 end
 
 gem 'jquery-rails'
