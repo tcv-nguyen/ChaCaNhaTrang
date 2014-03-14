@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'rails_12factor'
 gem 'contact_us'
 #gem "formtastic"
 gem 'simple_form'
