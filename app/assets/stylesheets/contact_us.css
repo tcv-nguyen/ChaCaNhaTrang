@@ -71,8 +71,11 @@ background: linear-gradient(left,  rgba(255,255,255,0) 0%,rgba(182,180,180,0.7) 
 
 /* Here comes to good stuff : content styling */    
 #content{
+/*float:left;*/
+margin-left: 20px;
+margin-top:30px;
 position:relative;
-margin:50px auto;    
+/*margin:50px auto;    */
 width:400px;
 min-height:200px;
 z-index:100;
@@ -123,6 +126,7 @@ input:required, textarea:required {
     -webkit-box-shadow:none;  
     -o-box-shadow:none;  
     box-shadow:none;  
+    height:150px;
 }
 
 
@@ -319,3 +323,8 @@ background: linear-gradient(top,  rgba(234,234,234,1) 0%,rgba(242,242,242,1) 100
 
 
 
+#info_contact{
+  float:right;
+  margin-top: -607px;
+  margin-right: 238px;
+}
