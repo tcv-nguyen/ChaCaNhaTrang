@@ -1,0 +1,64 @@
+<div id="content-main" role="main" class="cf">
+	<section class="page menupagesection cf">
+		<div class="wrapper">
+			<div class="pagetitle">
+				<h2><%=@post.title%></h2>
+			</div>
+			<div class="menutypelist cf menuitemsbottom"> 
+				<div class="bigimagebox cf">
+					<div class="menuslider">
+						<div class="bottommenuslider">
+							<div class="timerbox">
+								<div class="timetext">
+								</div>
+							</div>
+							<div class="portionbox">
+								<div class="portiontext">
+								</div>
+							</div>
+							<div class="likebox">
+								<div class="post-like">
+								</div>
+							</div>
+							<div class="itemcost">
+								<div class="costtext">
+									$120.000
+								</div>
+							</div>
+						</div>
+						<div class="flex-viewport" style="overflow: hidden; position:relative;">
+						</div>
+						<div class="flex-direction-nav">
+						</div>
+					</div>
+					<div class="maskbox">
+					</div>
+				</div>
+			</div>
+			<div class="descriptionmenusection cf">
+				<div class="leftpartmenu">
+					<div class="descic">
+						<h2>Description</h2>
+					</div>
+					<div class="text">
+						<p><%=@post.description%></p>
+					</div>
+				</div>
+				<div class="rightpartmenu">
+					<div class="recip">
+						<h2>Recipe</h2>
+					</div>
+					<div class="text">
+						<p><%=@post.recipe%></p>
+					</div>
+				</div>
+			</div>
+			<div class="cf">
+			</div>
+			<div class="recomitems">	
+				<h3>Recommended dishes</h3>
+			</div>
+			<%=render :partial => "shared_show"%>
+		</div>
+	</section>
+</div>

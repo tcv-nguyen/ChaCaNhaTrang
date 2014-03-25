@@ -1,10 +1,14 @@
 ChaCaNhaTrang::Application.routes.draw do
+  # get "posts/index"
+
+  # get "posts/show"
+
   root :to => 'welcome#index'
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
-
+  
   get "welcome/index"
-
+  resources :posts
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

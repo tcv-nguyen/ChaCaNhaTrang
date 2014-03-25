@@ -1,0 +1,32 @@
+<div class="menutypelist cf">
+	<%@posts_show.each do |post|%>		
+					<div class="menutypeitem">
+						<div class="menuimage">
+							<%=link_to image_tag("#{post.image}"), "#", :class=>"attachment-menu-grid wp-post-image", :height=>"220px", :width=>"330px"%>
+							<div class="mask">
+								<%=link_to  "#" do %>
+								   <span> + </span>
+								<%end%>
+							</div>
+						</div>
+						<div class="whitebox cf">
+							<div class="title">
+								<%=post.title%>
+							</div>
+							<div class="descr">
+								<%=link_to post.description[0..200]+'..' %>
+							</div>
+							<div class="menubottom cf">
+								<div class="menulink fl">
+									<%=link_to "Read more", "#", :class=> "button redbutcolor"%>
+								</div>
+								<div class="pricemenu fr">
+									<%=number_to_currency(post.price, precision: 0)%>
+								</div>
+							</div>
+						</div>
+					</div>
+				<div class="paginationbox">
+				</div>
+	<%end%>
+</div>
