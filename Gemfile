@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 gem 'activeadmin'
-gem 'rails_12factor'
+gem 'rails_12factor', group: :production
 gem 'contact_us'
 #gem "formtastic"
 gem 'simple_form'
