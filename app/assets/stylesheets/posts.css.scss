@@ -1,4 +1,4 @@
-.nobreak {
+.timetext.nobreak {
   -webkit-column-break-inside: avoid;
   -moz-column-break-inside: avoid;
   -o-column-break-inside: avoid;
@@ -1804,11 +1804,12 @@ textarea {
 }
 .page .menutypelist .menuslider .bottommenuslider .timerbox .timetext {
   height: 100px;
-  margin-left: 33px;
+  /*margin-left: 33px;*/
+  margin-left: 16px;
   padding-left: 80px;
   line-height: 100px;
   font-size: 16px;
-  color: #2d2d2d;
+  /*color: #2d2d2d;*/
   background: url(timer.png) left 50% no-repeat;
 }
 .page .menutypelist .menuslider .bottommenuslider .portionbox {
@@ -1823,7 +1824,7 @@ textarea {
   padding-left: 90px;
   line-height: 100px;
   font-size: 16px;
-  color: #2d2d2d;
+  /*color: #2d2d2d;*/
   background: url(plate.png) left 50% no-repeat;
 }
 .page .menutypelist .menuslider .bottommenuslider .itemcost {
