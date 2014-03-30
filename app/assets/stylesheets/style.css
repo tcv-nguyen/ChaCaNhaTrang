@@ -132,6 +132,8 @@ body{
 	margin:0 0 0 -3px;
 	-moz-border-radius: 35px;
 	border-radius: 10px;
+	width: 258px;
+	height:168px;
 }
 .body ul.blog li div a img:hover{
 	filter:alpha(opacity=80);

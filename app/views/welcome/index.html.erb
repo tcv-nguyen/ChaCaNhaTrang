@@ -13,31 +13,14 @@
 	</div>
 
 	<ul class="blog">
-		<li>
-			<div>
-				<%=link_to image_tag("cha-ca-nhong.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" %>
-				<p>Cha ca nhong</p>
-				<a href="#blog.html">Click to read more</a>
-				<%= yield %>
-			</div>
-		</li>
-
-		<li>
-			<div>
-				<%=link_to image_tag("cha-ca-do-cu.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" %>
-				<p>Cha ca do cu</p>
-				<a href="#blog.html">Click to read more</a>
-				<%= yield %>
-			</div>
-		</li>
-
-		<li>
-			<div>
-				<%=link_to image_tag("cha-ca-song.jpg", :alt =>"", :height=>"168", :width=>"258"), :href => "#blog.html" %>
-				<p>Cha ca song</p>
-				<a href="#blog.html">Click to read more</a>
-				<%= yield %>
-			</div>
-		</li>
+		<%@posts.each do |post|%>
+			<li>
+				<div>
+					<%=link_to image_tag("chaca-chien4.jpg"),post, :width=>"258px", :height=>"168px", :alt => " "%>
+					<p> <%=post.title%>	</p>	
+					<%=link_to "Click to read more", post, :class=> "button redbutcolor"%>
+				</div>
+			</li>
+		<%end%>
 	</ul>
 </div>
