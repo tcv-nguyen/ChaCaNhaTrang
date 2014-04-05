@@ -12,7 +12,7 @@ aside,
 details,
 figcaption,
 figure,
-footer,
+/*footer,*/
 header,
 hgroup,
 nav,
@@ -66,7 +66,7 @@ aside,
 details,
 figcaption,
 figure,
-footer,
+/*footer,*/
 header,
 hgroup,
 nav,
@@ -2972,105 +2972,6 @@ article ol li:before,
   font-size: 17px;
   color: #cf435a;
 }
-#footer-main .topfooter {
-  width: 100%;
-  height: 70px;
-  background: #1f1f1f;
-}
-#footer-main .topfooter .copy {
-  margin-left: 20px;
-  line-height: 70px;
-  margin-bottom: 0;
-  float: left;
-  color: #b6b6b6;
-  font-size: 12px;
-  font-weight: 400;
-}
-#footer-main .topfooter .rightfooterpart {
-  display: inline-block;
-  float: right;
-}
-#footer-main .topfooter .rightfooterpart .footerlogo {
-  display: inline-block;
-  float: left;
-  margin-right: 20px;
-}
-#footer-main .topfooter .rightfooterpart .fuuterimage a {
-  display: block;
-  width: 98px;
-  height: 70px;
-  text-indent: -9999px;
-  background: url(footerlogo.png) 50% 50% no-repeat;
-}
-#footer-main .bottomfooter {
-  width: 100%;
-  height: 125px;
-  background: #2d2d2d;
-}
-#footer-main .bottomfooter .leftpartfooter {
-  width: 50%;
-  float: left;
-}
-#footer-main .bottomfooter .leftpartfooter .contactpart {
-  margin-top: 40px;
-  margin-left: 20px;
-}
-#footer-main .bottomfooter .leftpartfooter .contactpart .onecont {
-  display: block;
-  float: left;
-  margin-right: 15px;
-  color: #b6b6b6;
-  font-weight: 600;
-  font-size: 16px;
-}
-#footer-main .bottomfooter .leftpartfooter .contactpart .twocont {
-  display: block;
-  float: left;
-  margin-right: 40px;
-  color: #787878;
-  font-size: 13px;
-  line-height: 18px;
-}
-#footer-main .bottomfooter .leftpartfooter .contactpart .twocont .phonefooter {
-  font-size: 16px;
-}
-#footer-main .bottomfooter .leftpartfooter .contactpart .threecont {
-  display: block;
-  float: left;
-  color: #787878;
-  font-size: 13px;
-  line-height: 18px;
-  background: url(adress.png) left top no-repeat;
-  padding-left: 22px;
-}
-#footer-main .bottomfooter .rightpartfooter {
-  width: 50%;
-  float: left;
-}
-#footer-main .bottomfooter .rightpartfooter .bottommenu {
-  margin-left: 30px;
-  margin-top: 30px;
-}
-#footer-main .bottomfooter .rightpartfooter .bottommenu li {
-  width: 138px;
-  background: url(footerli.png) left 50% no-repeat;
-  padding-left: 12px;
-  float: left;
-  display: inline-block;
-  line-height: 20px;
-  font-size: 13px;
-}
-#footer-main .bottomfooter .rightpartfooter .bottommenu li a {
-  color: #ffffff;
-}
-#footer-main .bottomfooter .rightpartfooter .bottommenu li a:hover {
-  text-decoration: underline;
-  -webkit-transition: all 300ms ease-in-out;
-  -moz-transition: all 300ms ease-in-out;
-  -ms-transition: all 300ms ease-in-out;
-  -o-transition: all 300ms ease-in-out;
-  transition: all 300ms ease-in-out;
-}
 .ale-slider-slides {
   border: 6px solid #ffffff;
   -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12);
@@ -4331,48 +4232,14 @@ dl.gallery-item dd {
   .iconssection .iconbox {
     width: 100%;
   }
-  #footer-main .topfooter .rightfooterpart {
-    display: none;
-  }
-  #footer-main .bottomfooter {
-    text-align: center;
-    height: auto;
-    padding-bottom: 15px;
-  }
-  #footer-main .bottomfooter .leftpartfooter {
-    width: 100%;
-    float: none;
-    clear: both;
-    display: inline-block;
-    margin-bottom: 30px;
-  }
-  #footer-main .bottomfooter .leftpartfooter .contactpart {
-    display: inline-block;
-    margin-left: 0;
-  }
-  #footer-main .bottomfooter .rightpartfooter {
-    clear: both;
-    width: 100%;
-    float: none;
-    display: inline-block;
-  }
-  #footer-main .bottomfooter .rightpartfooter .bottommenu {
-    display: inline-block;
-    text-align: left;
-  }
+
   #mainheader .topline .headerleftdata {
     margin-left: 0;
   }
   #mainheader .topline .socialprof {
     margin-right: 0;
   }
-  #footer-main .topfooter .copy {
-    margin: 0;
-    line-height: 14px;
-    margin-top: 20px;
-    text-align: center;
-    width: 100%;
-  }
+
   .page .leftpart,
   .page .rightpart {
     width: 100%;
