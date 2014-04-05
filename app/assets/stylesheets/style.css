@@ -475,4 +475,31 @@ body{
   transition: all 300ms ease-in-out;
 }
 
+.topline {
+background-color: #1f1f1f;
+width: 100%;
+height: 50px;
+}
 
+.topline .headerleftdata {
+margin-left: 20px;
+color: #ffffff;
+font-size: 16px;
+line-height: 49px;
+display: inline-block;
+float: left;
+font-weight: 300;
+}
+
+.wrapper {
+max-width: 1000px;
+width: 100%;
+margin: 0 auto;
+}
+.topline .adresstext {
+margin-left: 40px;
+padding-left: 20px;
+font-size: 14px;
+line-height: 49px;
+background: url(adress.png) left 50% no-repeat;
+}
