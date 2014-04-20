@@ -16,13 +16,16 @@
 							<div class="descr">
 								<%=link_to post.description[0..200]+'..' %>
 							</div>
+
 							<div class="menubottom cf">
 								<div class="menulink fl">
-									<%=link_to "Read more", post, :class=> "button redbutcolor"%>
+									<%=link_to "Read more", post, :class=> "button redbutcolor", :style=>"float:left;margin-top:-15px;"%>
 								</div>
 								<div class="pricemenu fr">
-									<%=number_to_currency(post.price, precision: 0)%>
-								</div>
+									<!--<%=number_to_currency(post.price, precision: 0)%>-->
+									<%=button_to 'Add to Cart', line_items_path(:post_id => post), :class => 'cart', :style => "width:80px; margin-top: -32px; float:left; background-color:#D1F806"%>
+								</div> 
+								
 							</div>
 						</div>
 					</div>

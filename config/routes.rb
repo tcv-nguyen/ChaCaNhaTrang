@@ -1,4 +1,10 @@
 ChaCaNhaTrang::Application.routes.draw do
+  resources :line_items
+
+
+  resources :carts
+
+
   # get "posts/index"
 
   # get "posts/show"
